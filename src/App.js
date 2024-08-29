@@ -19,7 +19,7 @@ function App() {
 
     <div className='row'>
       <h4>Welcome to React</h4>
-      
+    
       <table><tr><td> <BrowserRouter>
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
           <a class="navbar-brand" href="#">Navbar</a>
